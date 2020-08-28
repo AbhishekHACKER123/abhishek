@@ -1,2 +1,1 @@
-# abhishek
-😊😊😊😊😊😊😊
+pkg install upgrade 
